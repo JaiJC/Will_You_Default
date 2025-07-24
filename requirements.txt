@@ -1,0 +1,9 @@
+lightgbm
+matplotlib
+mglearn
+numpy
+pandas
+seaborn
+shap
+scikit-learn
+IPython
